@@ -21,7 +21,7 @@ I also built an admin version of this app for hotel employees to manage cabins, 
 
 <h2>Features</h2>
 
-* View all available cabins with descriptions and images.or edit account information like password, profile Avatar and Full name .
+* View all available cabins with descriptions and images. or edit account information like password, profile Avatar and Full name .
 * Book a cabin based on available dates and select the number of guests.
 * Sign in with Google to manage bookings.
 * View your booked cabins, edit them, or cancel if needed.
